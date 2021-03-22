@@ -1,5 +1,5 @@
 # Auto-Clicker
-I made this auto-clicker for people who don't want to deal with complicated stuff.
+I made this auto-clicker for people who don't want to deal with complicated stuff.<br>
 Disclaimer: It does not come with a GUI, simply just edit the code to make it work.
 
 # How to install and use
