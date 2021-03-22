@@ -1,3 +1,6 @@
+"""
+Auto Keyboard Button Presser by Jminding - based off of the Auto Clicker code
+"""
 from pynput.keyboard import Key, Controller, Listener, KeyCode
 import time
 import pynput

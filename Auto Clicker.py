@@ -1,3 +1,6 @@
+"""
+Auto Clicker by Jminding, with some code taken from a tutorial
+"""
 import pynput
 import threading
 import time
