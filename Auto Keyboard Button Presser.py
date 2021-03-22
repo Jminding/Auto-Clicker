@@ -3,10 +3,10 @@ import time
 import pynput
 import threading
 
-delay = 0.001
-key = "3"
-start_stop_key = KeyCode(char='®')
-exit_key = KeyCode(char='≈')
+delay = 0.001 # change this to change the delay between keypresses in seconds
+key = "3" # change this to change which key is pressed
+start_stop_key = KeyCode(char='®') # change this to change what combination of keypresses activates this
+exit_key = KeyCode(char='≈') # change this to change what combination of keypresses terminates the running of the code
 
 class PressKey(threading.Thread):
 
